@@ -1,0 +1,7 @@
+library,step,n_series,seconds,run_at
+statsforecast,cross_validation (5 fenetres),15,124.6,2026-11-12T20:29:52
+statsforecast,forecast final,15,32.4,2026-11-12T20:30:24
+prophet,walk-forward (5 fenetres),3,3.1,2026-11-12T20:33:47
+prophet,forecast final,3,0.5,2026-11-12T20:33:48
+prophet,walk-forward (5 fenetres),15,13.0,2026-11-12T20:35:28
+prophet,forecast final,15,2.6,2026-11-12T20:35:31
